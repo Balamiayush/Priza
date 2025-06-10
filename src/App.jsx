@@ -2,7 +2,7 @@ import React from 'react';
 import './css/normalize.css';
 import './css/webflow.css';
 import './css/prixa-digital.webflow.css';
-
+// helof
 import Home from './pages/Home';
 import Navbar from './components/Navbar';
 import Page2 from './pages/Page2';

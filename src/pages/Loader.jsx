@@ -43,6 +43,7 @@ const Loader = () => {
   duration={3}
   className="count-up-text  font-bold lg:text-6xl"
 />
+{/* hello */}
     </div>
   )
 }

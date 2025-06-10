@@ -18,7 +18,7 @@ import Flip from 'gsap/Flip';
 import { useGSAP } from '@gsap/react';
 import Loader from './pages/Loader';
 
-gsap.registerPlugin(ScrollTrigger, Flip, useGSAP);
+gsap.registerPlugin(useGSAP, ScrollTrigger, Flip);
 
 const App = () => {
   useGSAP(() => {
